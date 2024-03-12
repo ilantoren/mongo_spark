@@ -1,0 +1,15 @@
+{
+  "pValues" : {
+    "type" : 1,
+    "size" : null,
+    "indices" : null,
+    "values" : [ 0.0, 0.0, 0.0 ]
+  },
+  "degreesOfFreedom" : [ 1, 19, 212 ],
+  "statistics" : {
+    "type" : 1,
+    "size" : null,
+    "indices" : null,
+    "values" : [ 201.813304559169, 17308.75573994352, 8831.338574831663 ]
+  }
+}

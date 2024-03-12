@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1679519854187,"sparkVersion":"3.3.1","uid":"vecAssembler_a7fc3d524a11","paramMap":{"inputCols":["GoldsteinScale","ActorIndex"],"outputCol":"features","handleInvalid":"skip"},"defaultParamMap":{"outputCol":"vecAssembler_a7fc3d524a11__output","handleInvalid":"error"}}

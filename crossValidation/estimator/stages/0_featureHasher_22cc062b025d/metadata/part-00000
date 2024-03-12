@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.FeatureHasher","timestamp":1682491937069,"sparkVersion":"3.3.2","uid":"featureHasher_22cc062b025d","paramMap":{"inputCols":["Actor1Code","Actor1CountryCode","ActionGeo_CountryCode","GoldsteinScale"],"outputCol":"features"},"defaultParamMap":{"outputCol":"featureHasher_22cc062b025d__output","numFeatures":262144}}
